@@ -1,0 +1,18 @@
+Initial solution objectives: Balance violation = 34903.3650, Affinity loss = 908, Compactness = 47321.8258
+Iteration 2:  32654.365000 902.000000 46157.778178 (3,3)
+Iteration 6:  14492.455000 868.000000 75980.194313 (3,0)
+Iteration 2512:  8946.970000 920.000000 60917.798899 (3,0)
+Iteration 4530:  8724.860000 939.000000 63285.335084 (3,0)
+Iteration 17061:  8116.640000 930.000000 61708.313465 (3,0)
+Iteration 17585:  6591.250000 863.000000 62901.370552 (3,0)
+Iteration 31118:  4920.285000 925.000000 74920.554346 (3,0)
+Iteration 185430:  1851.540000 889.000000 68327.093941 (3,0)
+total iterations: 248504, time elapsed: 3600.12s
+Destroy operator: destroy_random_leafs, Weight: 0.5132, Score: 32100.50, Count: 62551
+Destroy operator: destroy_path, Weight: 0.5042, Score: 30884.50, Count: 61256
+Destroy operator: destroy_worst_affinity, Weight: 0.5080, Score: 31302.50, Count: 61624
+Destroy operator: destroy_district_group, Weight: 0.5188, Score: 32720.50, Count: 63072
+Repair operator: repair_greedy_feasible, Weight: 0.5112, Score: 31843.00, Count: 62293
+Repair operator: repair_affinity_compact, Weight: 0.5064, Score: 31228.50, Count: 61665
+Repair operator: repair_nearest_center, Weight: 0.5100, Score: 31458.00, Count: 61680
+Repair operator: repair_2regret, Weight: 0.5166, Score: 32478.50, Count: 62865

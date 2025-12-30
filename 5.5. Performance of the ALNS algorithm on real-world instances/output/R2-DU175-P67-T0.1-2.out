@@ -1,0 +1,404 @@
+BalanceViolation 82952.337612
+AffinityLoss 326.000000
+Compactness 106125.600000
+District 1
+Nodes: 36 61 63 64
+Compactness: 3331.600000
+Weights: 1335.000000 7134.800000 0.000000
+Center Node: 63
+
+District 2
+Nodes: 66 67 68
+Compactness: 1192.000000
+Weights: 895.000000 4847.700000 0.000000
+Center Node: 67
+
+District 3
+Nodes: 85 88 89
+Compactness: 1559.800000
+Weights: 745.000000 4539.500000 0.000000
+Center Node: 89
+
+District 4
+Nodes: 125 126 127
+Compactness: 1617.000000
+Weights: 1675.000000 8873.000000 0.000000
+Center Node: 127
+
+District 5
+Nodes: 129 131
+Compactness: 1984.300000
+Weights: 1135.000000 7279.100000 0.000000
+Center Node: 131
+
+District 6
+Nodes: 147
+Compactness: 0.000000
+Weights: 860.000000 4222.600000 0.000000
+Center Node: 147
+
+District 7
+Nodes: 150 151 152 153 154
+Compactness: 4720.800000
+Weights: 430.000000 3741.700000 0.000000
+Center Node: 151
+
+District 8
+Nodes: 163
+Compactness: 0.000000
+Weights: 2325.000000 8416.300000 0.000000
+Center Node: 163
+
+District 9
+Nodes: 173 174
+Compactness: 2982.700000
+Weights: 450.000000 2614.200000 0.000000
+Center Node: 173
+
+District 10
+Nodes: 114 116
+Compactness: 1192.500000
+Weights: 760.000000 4418.400000 0.000000
+Center Node: 116
+
+District 11
+Nodes: 122 136
+Compactness: 3037.500000
+Weights: 980.000000 5595.100000 0.000000
+Center Node: 122
+
+District 12
+Nodes: 51 55
+Compactness: 1036.300000
+Weights: 735.000000 5166.700000 0.000000
+Center Node: 55
+
+District 13
+Nodes: 138
+Compactness: 0.000000
+Weights: 1020.000000 4055.800000 0.000000
+Center Node: 138
+
+District 14
+Nodes: 95 99 102
+Compactness: 1954.900000
+Weights: 2040.000000 5825.400000 0.000000
+Center Node: 99
+
+District 15
+Nodes: 124 141
+Compactness: 2602.400000
+Weights: 930.000000 5718.800000 0.000000
+Center Node: 141
+
+District 16
+Nodes: 1 6 7
+Compactness: 2403.900000
+Weights: 1185.000000 7251.900000 0.000000
+Center Node: 7
+
+District 17
+Nodes: 47 48 56
+Compactness: 2014.800000
+Weights: 1035.000000 5630.100000 0.000000
+Center Node: 48
+
+District 18
+Nodes: 166 167 171
+Compactness: 1856.800000
+Weights: 1705.000000 8613.200000 0.000000
+Center Node: 167
+
+District 19
+Nodes: 143 144
+Compactness: 475.100000
+Weights: 895.000000 6054.700000 0.000000
+Center Node: 144
+
+District 20
+Nodes: 155
+Compactness: 0.000000
+Weights: 595.000000 4123.000000 0.000000
+Center Node: 155
+
+District 21
+Nodes: 156 157 158
+Compactness: 1359.400000
+Weights: 2735.000000 6690.300000 0.000000
+Center Node: 156
+
+District 22
+Nodes: 133 134
+Compactness: 883.700000
+Weights: 1040.000000 6072.900000 0.000000
+Center Node: 133
+
+District 23
+Nodes: 11 12 14 22 24
+Compactness: 3530.200000
+Weights: 2295.000000 6228.800000 0.000000
+Center Node: 11
+
+District 24
+Nodes: 49 50 52 53 54 57
+Compactness: 3736.800000
+Weights: 1100.000000 5491.700000 0.000000
+Center Node: 49
+
+District 25
+Nodes: 75 76 77 78 87
+Compactness: 4482.900000
+Weights: 1165.000000 6313.500000 0.000000
+Center Node: 77
+
+District 26
+Nodes: 139
+Compactness: 0.000000
+Weights: 125.000000 891.600000 0.000000
+Center Node: 139
+
+District 27
+Nodes: 118 119
+Compactness: 995.500000
+Weights: 1310.000000 5162.100000 0.000000
+Center Node: 119
+
+District 28
+Nodes: 120 140
+Compactness: 2406.600000
+Weights: 1070.000000 5321.400000 0.000000
+Center Node: 140
+
+District 29
+Nodes: 94 96 97
+Compactness: 858.600000
+Weights: 1245.000000 5276.900000 0.000000
+Center Node: 96
+
+District 30
+Nodes: 45 103 104 105 106
+Compactness: 3353.600000
+Weights: 1065.000000 4534.200000 0.000000
+Center Node: 103
+
+District 31
+Nodes: 162 164
+Compactness: 941.500000
+Weights: 3360.000000 9580.200000 0.000000
+Center Node: 162
+
+District 32
+Nodes: 69 70
+Compactness: 415.300000
+Weights: 1555.000000 9358.800000 0.000000
+Center Node: 69
+
+District 33
+Nodes: 41 65
+Compactness: 1355.500000
+Weights: 1865.000000 8819.800000 0.000000
+Center Node: 65
+
+District 34
+Nodes: 142
+Compactness: 0.000000
+Weights: 465.000000 2758.700000 0.000000
+Center Node: 142
+
+District 35
+Nodes: 3 8
+Compactness: 1173.200000
+Weights: 1715.000000 8240.400000 0.000000
+Center Node: 3
+
+District 36
+Nodes: 123
+Compactness: 0.000000
+Weights: 1115.000000 5518.600000 0.000000
+Center Node: 123
+
+District 37
+Nodes: 130
+Compactness: 0.000000
+Weights: 670.000000 3312.400000 0.000000
+Center Node: 130
+
+District 38
+Nodes: 148
+Compactness: 0.000000
+Weights: 475.000000 2951.700000 0.000000
+Center Node: 148
+
+District 39
+Nodes: 44 46
+Compactness: 2307.100000
+Weights: 910.000000 5665.600000 0.000000
+Center Node: 44
+
+District 40
+Nodes: 170 172
+Compactness: 970.000000
+Weights: 1145.000000 7151.900000 0.000000
+Center Node: 170
+
+District 41
+Nodes: 16 19 20
+Compactness: 1490.500000
+Weights: 1435.000000 8358.200000 0.000000
+Center Node: 20
+
+District 42
+Nodes: 28 29 30 33 34 98
+Compactness: 3637.300000
+Weights: 1355.000000 7477.900000 0.000000
+Center Node: 34
+
+District 43
+Nodes: 159 160
+Compactness: 1084.200000
+Weights: 1770.000000 6207.600000 0.000000
+Center Node: 160
+
+District 44
+Nodes: 132 137
+Compactness: 717.100000
+Weights: 890.000000 5397.000000 0.000000
+Center Node: 132
+
+District 45
+Nodes: 115 117
+Compactness: 853.800000
+Weights: 930.000000 4617.200000 0.000000
+Center Node: 115
+
+District 46
+Nodes: 79 80 81 82 83 84 86
+Compactness: 4026.500000
+Weights: 1025.000000 5552.800000 0.000000
+Center Node: 81
+
+District 47
+Nodes: 9 23 25
+Compactness: 1793.400000
+Weights: 1435.000000 6864.200000 0.000000
+Center Node: 25
+
+District 48
+Nodes: 121
+Compactness: 0.000000
+Weights: 435.000000 2760.300000 0.000000
+Center Node: 121
+
+District 49
+Nodes: 37
+Compactness: 0.000000
+Weights: 1080.000000 6499.300000 0.000000
+Center Node: 37
+
+District 50
+Nodes: 31 100 101
+Compactness: 1348.600000
+Weights: 1455.000000 6682.700000 0.000000
+Center Node: 101
+
+District 51
+Nodes: 90 91 92
+Compactness: 1075.400000
+Weights: 1395.000000 5757.600000 0.000000
+Center Node: 92
+
+District 52
+Nodes: 165 168
+Compactness: 1046.400000
+Weights: 1235.000000 6642.000000 0.000000
+Center Node: 165
+
+District 53
+Nodes: 32 40
+Compactness: 1554.900000
+Weights: 1640.000000 8791.700000 0.000000
+Center Node: 32
+
+District 54
+Nodes: 128
+Compactness: 0.000000
+Weights: 670.000000 3712.300000 0.000000
+Center Node: 128
+
+District 55
+Nodes: 0 2 15
+Compactness: 1488.600000
+Weights: 1215.000000 7503.800000 0.000000
+Center Node: 0
+
+District 56
+Nodes: 149
+Compactness: 0.000000
+Weights: 145.000000 833.700000 0.000000
+Center Node: 149
+
+District 57
+Nodes: 17 18
+Compactness: 843.800000
+Weights: 1190.000000 7920.000000 0.000000
+Center Node: 17
+
+District 58
+Nodes: 145 146
+Compactness: 1346.800000
+Weights: 1390.000000 7169.400000 0.000000
+Center Node: 146
+
+District 59
+Nodes: 161 169
+Compactness: 2216.700000
+Weights: 1820.000000 6252.400000 0.000000
+Center Node: 169
+
+District 60
+Nodes: 71 72 73 74
+Compactness: 2064.600000
+Weights: 1275.000000 6713.700000 0.000000
+Center Node: 73
+
+District 61
+Nodes: 42 43 107 108 109 110 111 112 113
+Compactness: 9145.800000
+Weights: 1025.000000 5925.400000 0.000000
+Center Node: 109
+
+District 62
+Nodes: 35 38 39
+Compactness: 2078.000000
+Weights: 1565.000000 6763.900000 0.000000
+Center Node: 38
+
+District 63
+Nodes: 26 27 58 93
+Compactness: 1515.600000
+Weights: 1130.000000 6873.700000 0.000000
+Center Node: 26
+
+District 64
+Nodes: 10 13 21
+Compactness: 2192.400000
+Weights: 1395.000000 6808.200000 0.000000
+Center Node: 21
+
+District 65
+Nodes: 59 60 62
+Compactness: 1397.000000
+Weights: 1550.000000 8025.500000 0.000000
+Center Node: 60
+
+District 66
+Nodes: 4 5
+Compactness: 475.900000
+Weights: 1590.000000 7030.400000 0.000000
+Center Node: 5
+
+District 67
+Nodes: 135
+Compactness: 0.000000
+Weights: 835.000000 5432.700000 0.000000
+Center Node: 135
