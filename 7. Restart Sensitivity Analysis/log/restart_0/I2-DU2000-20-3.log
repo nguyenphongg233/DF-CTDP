@@ -1,0 +1,45 @@
+Iteration 0: BestViol=28727.8700 BestAff=3661 BestCompact=197782.78 CurScore=307611982.7751 BestScore=307611982.7751 Temp=15380599.14 NoImprove=0 Restarts=0 Time=0.00s
+Iteration 1000: BestViol=11734.0425 BestAff=3653 BestCompact=229170.75 CurScore=367490575.8267 BestScore=137661095.7482 Temp=18374528.79 NoImprove=0 Restarts=1000 Time=88.62s
+Iteration 2000: BestViol=9186.5025 BestAff=3847 BestCompact=198249.96 CurScore=293869784.0627 BestScore=113221774.9639 Temp=14693489.20 NoImprove=0 Restarts=2000 Time=176.35s
+Iteration 3000: BestViol=9186.5025 BestAff=3847 BestCompact=198249.96 CurScore=473262497.2966 BestScore=113221774.9639 Temp=23663124.86 NoImprove=0 Restarts=3000 Time=263.52s
+Iteration 4000: BestViol=9186.5025 BestAff=3847 BestCompact=198249.96 CurScore=405503120.6301 BestScore=113221774.9639 Temp=20275156.03 NoImprove=0 Restarts=4000 Time=349.95s
+Iteration 5000: BestViol=9186.5025 BestAff=3847 BestCompact=198249.96 CurScore=355490304.0767 BestScore=113221774.9639 Temp=17774515.20 NoImprove=0 Restarts=5000 Time=435.74s
+Iteration 6000: BestViol=9186.5025 BestAff=3847 BestCompact=198249.96 CurScore=469585962.9839 BestScore=113221774.9639 Temp=23479298.15 NoImprove=0 Restarts=6000 Time=521.42s
+Iteration 7000: BestViol=9186.5025 BestAff=3847 BestCompact=198249.96 CurScore=311919319.0633 BestScore=113221774.9639 Temp=15595965.95 NoImprove=0 Restarts=7000 Time=606.79s
+Iteration 8000: BestViol=9186.5025 BestAff=3847 BestCompact=198249.96 CurScore=218781585.9522 BestScore=113221774.9639 Temp=10939079.30 NoImprove=0 Restarts=8000 Time=693.04s
+Iteration 9000: BestViol=9186.5025 BestAff=3847 BestCompact=198249.96 CurScore=314286258.6906 BestScore=113221774.9639 Temp=15714312.93 NoImprove=0 Restarts=9000 Time=779.52s
+Iteration 10000: BestViol=9296.8425 BestAff=3340 BestCompact=202557.84 CurScore=208188291.7042 BestScore=111540982.8418 Temp=10409414.59 NoImprove=0 Restarts=10000 Time=867.17s
+Iteration 11000: BestViol=9296.8425 BestAff=3340 BestCompact=202557.84 CurScore=651083906.5249 BestScore=111540982.8418 Temp=32554195.33 NoImprove=0 Restarts=11000 Time=952.95s
+Iteration 12000: BestViol=9296.8425 BestAff=3340 BestCompact=202557.84 CurScore=317866566.7517 BestScore=111540982.8418 Temp=15893328.34 NoImprove=0 Restarts=12000 Time=1038.24s
+Iteration 13000: BestViol=9296.8425 BestAff=3340 BestCompact=202557.84 CurScore=439968739.0293 BestScore=111540982.8418 Temp=21998436.95 NoImprove=0 Restarts=13000 Time=1124.48s
+Iteration 14000: BestViol=9296.8425 BestAff=3340 BestCompact=202557.84 CurScore=591174117.0621 BestScore=111540982.8418 Temp=29558705.85 NoImprove=0 Restarts=14000 Time=1211.01s
+Iteration 15000: BestViol=9296.8425 BestAff=3340 BestCompact=202557.84 CurScore=572070748.2534 BestScore=111540982.8418 Temp=28603537.41 NoImprove=0 Restarts=15000 Time=1297.45s
+Iteration 16000: BestViol=9296.8425 BestAff=3340 BestCompact=202557.84 CurScore=537514942.5401 BestScore=111540982.8418 Temp=26875747.13 NoImprove=0 Restarts=16000 Time=1384.48s
+Iteration 17000: BestViol=9296.8425 BestAff=3340 BestCompact=202557.84 CurScore=541527046.1472 BestScore=111540982.8418 Temp=27076352.31 NoImprove=0 Restarts=17000 Time=1470.40s
+Iteration 18000: BestViol=9296.8425 BestAff=3340 BestCompact=202557.84 CurScore=460518055.6891 BestScore=111540982.8418 Temp=23025902.78 NoImprove=0 Restarts=18000 Time=1555.91s
+Iteration 19000: BestViol=9296.8425 BestAff=3340 BestCompact=202557.84 CurScore=532705359.0442 BestScore=111540982.8418 Temp=26635267.95 NoImprove=0 Restarts=19000 Time=1641.99s
+Iteration 20000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=288477672.7955 BestScore=92300023.3556 Temp=14423883.64 NoImprove=0 Restarts=20000 Time=1727.20s
+Iteration 21000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=378814773.8189 BestScore=92300023.3556 Temp=18940738.69 NoImprove=0 Restarts=21000 Time=1813.90s
+Iteration 22000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=530824090.5809 BestScore=92300023.3556 Temp=26541204.53 NoImprove=0 Restarts=22000 Time=1900.77s
+Iteration 23000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=591842985.5912 BestScore=92300023.3556 Temp=29592149.28 NoImprove=0 Restarts=23000 Time=1989.91s
+Iteration 24000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=487492394.8042 BestScore=92300023.3556 Temp=24374619.74 NoImprove=0 Restarts=24000 Time=2076.38s
+Iteration 25000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=308101472.7008 BestScore=92300023.3556 Temp=15405073.64 NoImprove=0 Restarts=25000 Time=2162.34s
+Iteration 26000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=649963448.2651 BestScore=92300023.3556 Temp=32498172.41 NoImprove=0 Restarts=26000 Time=2248.74s
+Iteration 27000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=526287461.6428 BestScore=92300023.3556 Temp=26314373.08 NoImprove=0 Restarts=27000 Time=2335.12s
+Iteration 28000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=323377656.0775 BestScore=92300023.3556 Temp=16168882.80 NoImprove=0 Restarts=28000 Time=2421.52s
+Iteration 29000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=280341595.4166 BestScore=92300023.3556 Temp=14017079.77 NoImprove=0 Restarts=29000 Time=2508.18s
+Iteration 30000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=634582365.3315 BestScore=92300023.3556 Temp=31729118.27 NoImprove=0 Restarts=30000 Time=2593.54s
+Iteration 31000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=360025260.1679 BestScore=92300023.3556 Temp=18001263.01 NoImprove=0 Restarts=31000 Time=2679.44s
+Iteration 32000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=458398210.0872 BestScore=92300023.3556 Temp=22919910.50 NoImprove=0 Restarts=32000 Time=2766.07s
+Iteration 33000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=287678619.3715 BestScore=92300023.3556 Temp=14383930.97 NoImprove=0 Restarts=33000 Time=2851.68s
+Iteration 34000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=301119356.1440 BestScore=92300023.3556 Temp=15055967.81 NoImprove=0 Restarts=34000 Time=2937.71s
+Iteration 35000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=288749997.4498 BestScore=92300023.3556 Temp=14437499.87 NoImprove=0 Restarts=35000 Time=3022.88s
+Iteration 36000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=457154475.2183 BestScore=92300023.3556 Temp=22857723.76 NoImprove=0 Restarts=36000 Time=3108.72s
+Iteration 37000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=635440771.0987 BestScore=92300023.3556 Temp=31772038.55 NoImprove=0 Restarts=37000 Time=3193.95s
+Iteration 38000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=408530512.5169 BestScore=92300023.3556 Temp=20426525.63 NoImprove=0 Restarts=38000 Time=3279.02s
+Iteration 39000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=425540075.0389 BestScore=92300023.3556 Temp=21277003.75 NoImprove=0 Restarts=39000 Time=3364.27s
+Iteration 40000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=493668742.0768 BestScore=92300023.3556 Temp=24683437.10 NoImprove=0 Restarts=40000 Time=3448.81s
+Iteration 41000: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 CurScore=351319390.2676 BestScore=92300023.3556 Temp=17565969.51 NoImprove=0 Restarts=41000 Time=3536.24s
+Final: BestViol=7374.8025 BestAff=3336 BestCompact=203998.36 BestScore=92300023.3556 TotalRestarts=41743 TotalTime=3600.06s TotalIters=41744
+OperatorCalls: {'destroy': {'RandomLeafs': 15047, 'PathRemoval': 9859, 'WorstAffinity': 16713, 'DistrictGroup': 124}, 'repair': {'GreedyFeasible': 6822, 'AffinityCompact': 9084, 'NearestCenter': 9717, 'Regret2': 16120}}
+OperatorImprovements: {'destroy': {'RandomLeafs': np.float64(195093742044.08136), 'PathRemoval': np.float64(10224386103.65864), 'WorstAffinity': np.float64(131806907589.25256), 'DistrictGroup': 0.0}, 'repair': {'GreedyFeasible': np.float64(10801876559.725664), 'AffinityCompact': np.float64(24670631748.393322), 'NearestCenter': np.float64(29822376233.496872), 'Regret2': np.float64(271830151195.37527)}}

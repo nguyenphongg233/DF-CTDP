@@ -1,0 +1,44 @@
+Iteration 0: BestViol=52852.5125 BestAff=3789 BestCompact=194243.27 CurScore=549558868.2733 BestScore=549558868.2733 Temp=27477943.41 NoImprove=0 Restarts=0 Time=0.00s
+Iteration 1000: BestViol=12563.1400 BestAff=3995 BestCompact=190660.90 CurScore=367337622.3694 BestScore=147794560.9003 Temp=18366881.12 NoImprove=0 Restarts=1000 Time=91.63s
+Iteration 2000: BestViol=12563.1400 BestAff=3995 BestCompact=190660.90 CurScore=613910632.8561 BestScore=147794560.9003 Temp=30695531.64 NoImprove=0 Restarts=2000 Time=181.27s
+Iteration 3000: BestViol=12563.1400 BestAff=3995 BestCompact=190660.90 CurScore=594026369.9903 BestScore=147794560.9003 Temp=29701318.50 NoImprove=0 Restarts=3000 Time=269.12s
+Iteration 4000: BestViol=11804.2400 BestAff=3996 BestCompact=190941.71 CurScore=549864955.3613 BestScore=140211341.7098 Temp=27493247.77 NoImprove=0 Restarts=4000 Time=357.74s
+Iteration 5000: BestViol=11099.0500 BestAff=3733 BestCompact=199099.25 CurScore=254371819.1512 BestScore=131721099.2467 Temp=12718590.96 NoImprove=0 Restarts=5000 Time=447.87s
+Iteration 6000: BestViol=11099.0500 BestAff=3733 BestCompact=199099.25 CurScore=316264681.2055 BestScore=131721099.2467 Temp=15813234.06 NoImprove=0 Restarts=6000 Time=535.30s
+Iteration 7000: BestViol=11099.0500 BestAff=3733 BestCompact=199099.25 CurScore=521169002.9787 BestScore=131721099.2467 Temp=26058450.15 NoImprove=0 Restarts=7000 Time=624.62s
+Iteration 8000: BestViol=11099.0500 BestAff=3733 BestCompact=199099.25 CurScore=691754930.7763 BestScore=131721099.2467 Temp=34587746.54 NoImprove=0 Restarts=8000 Time=712.80s
+Iteration 9000: BestViol=11099.0500 BestAff=3733 BestCompact=199099.25 CurScore=451475750.4426 BestScore=131721099.2467 Temp=22573787.52 NoImprove=0 Restarts=9000 Time=801.18s
+Iteration 10000: BestViol=11099.0500 BestAff=3733 BestCompact=199099.25 CurScore=667943266.1431 BestScore=131721099.2467 Temp=33397163.31 NoImprove=0 Restarts=10000 Time=890.32s
+Iteration 11000: BestViol=11099.0500 BestAff=3733 BestCompact=199099.25 CurScore=419527156.0528 BestScore=131721099.2467 Temp=20976357.80 NoImprove=0 Restarts=11000 Time=978.57s
+Iteration 12000: BestViol=11099.0500 BestAff=3733 BestCompact=199099.25 CurScore=466229288.8224 BestScore=131721099.2467 Temp=23311464.44 NoImprove=0 Restarts=12000 Time=1067.64s
+Iteration 13000: BestViol=11099.0500 BestAff=3733 BestCompact=199099.25 CurScore=596583104.2998 BestScore=131721099.2467 Temp=29829155.21 NoImprove=0 Restarts=13000 Time=1156.46s
+Iteration 14000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=426943197.2029 BestScore=129679149.3951 Temp=21347159.86 NoImprove=0 Restarts=14000 Time=1245.78s
+Iteration 15000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=290707326.3660 BestScore=129679149.3951 Temp=14535366.32 NoImprove=0 Restarts=15000 Time=1334.18s
+Iteration 16000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=508123758.2018 BestScore=129679149.3951 Temp=25406187.91 NoImprove=0 Restarts=16000 Time=1423.54s
+Iteration 17000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=563058896.5258 BestScore=129679149.3951 Temp=28152944.83 NoImprove=0 Restarts=17000 Time=1513.24s
+Iteration 18000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=731020813.5846 BestScore=129679149.3951 Temp=36551040.68 NoImprove=0 Restarts=18000 Time=1601.97s
+Iteration 19000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=449055164.9251 BestScore=129679149.3951 Temp=22452758.25 NoImprove=0 Restarts=19000 Time=1691.58s
+Iteration 20000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=635495679.8650 BestScore=129679149.3951 Temp=31774783.99 NoImprove=0 Restarts=20000 Time=1778.68s
+Iteration 21000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=720961253.0951 BestScore=129679149.3951 Temp=36048062.65 NoImprove=0 Restarts=21000 Time=1867.73s
+Iteration 22000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=652724526.2786 BestScore=129679149.3951 Temp=32636226.31 NoImprove=0 Restarts=22000 Time=1958.00s
+Iteration 23000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=595236573.8699 BestScore=129679149.3951 Temp=29761828.69 NoImprove=0 Restarts=23000 Time=2049.14s
+Iteration 24000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=415663253.8428 BestScore=129679149.3951 Temp=20783162.69 NoImprove=0 Restarts=24000 Time=2140.51s
+Iteration 25000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=465421122.3647 BestScore=129679149.3951 Temp=23271056.12 NoImprove=0 Restarts=25000 Time=2229.91s
+Iteration 26000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=217671815.3572 BestScore=129679149.3951 Temp=10883590.77 NoImprove=0 Restarts=26000 Time=2318.93s
+Iteration 27000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=653231884.2397 BestScore=129679149.3951 Temp=32661594.21 NoImprove=0 Restarts=27000 Time=2407.57s
+Iteration 28000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=555997478.6506 BestScore=129679149.3951 Temp=27799873.93 NoImprove=0 Restarts=28000 Time=2497.44s
+Iteration 29000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=462683721.7627 BestScore=129679149.3951 Temp=23134186.09 NoImprove=0 Restarts=29000 Time=2587.73s
+Iteration 30000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=652472419.8927 BestScore=129679149.3951 Temp=32623620.99 NoImprove=0 Restarts=30000 Time=2678.74s
+Iteration 31000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=334625790.6170 BestScore=129679149.3951 Temp=16731289.53 NoImprove=0 Restarts=31000 Time=2766.83s
+Iteration 32000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=478496664.2572 BestScore=129679149.3951 Temp=23924833.21 NoImprove=0 Restarts=32000 Time=2854.21s
+Iteration 33000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=719372804.7572 BestScore=129679149.3951 Temp=35968640.24 NoImprove=0 Restarts=33000 Time=2941.99s
+Iteration 34000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=491285206.5435 BestScore=129679149.3951 Temp=24564260.33 NoImprove=0 Restarts=34000 Time=3030.74s
+Iteration 35000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=347418415.1422 BestScore=129679149.3951 Temp=17370920.76 NoImprove=0 Restarts=35000 Time=3120.10s
+Iteration 36000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=578533312.5742 BestScore=129679149.3951 Temp=28926665.63 NoImprove=0 Restarts=36000 Time=3209.27s
+Iteration 37000: BestViol=10797.3625 BestAff=3911 BestCompact=195024.40 CurScore=685472738.1115 BestScore=129679149.3951 Temp=34273636.91 NoImprove=0 Restarts=37000 Time=3297.45s
+Iteration 38000: BestViol=9377.3925 BestAff=3995 BestCompact=190773.47 CurScore=475850246.7980 BestScore=115937198.4687 Temp=23792512.34 NoImprove=0 Restarts=38000 Time=3387.45s
+Iteration 39000: BestViol=9377.3925 BestAff=3995 BestCompact=190773.47 CurScore=494276673.0228 BestScore=115937198.4687 Temp=24713833.65 NoImprove=0 Restarts=39000 Time=3475.65s
+Iteration 40000: BestViol=9377.3925 BestAff=3995 BestCompact=190773.47 CurScore=465960182.8519 BestScore=115937198.4687 Temp=23298009.14 NoImprove=0 Restarts=40000 Time=3563.80s
+Final: BestViol=9377.3925 BestAff=3995 BestCompact=190773.47 BestScore=115937198.4687 TotalRestarts=40417 TotalTime=3600.11s TotalIters=40418
+OperatorCalls: {'destroy': {'RandomLeafs': 14700, 'PathRemoval': 9699, 'WorstAffinity': 15917, 'DistrictGroup': 101}, 'repair': {'GreedyFeasible': 6696, 'AffinityCompact': 8610, 'NearestCenter': 9751, 'Regret2': 15360}}
+OperatorImprovements: {'destroy': {'RandomLeafs': np.float64(193148830714.47308), 'PathRemoval': np.float64(14152461283.131073), 'WorstAffinity': np.float64(119049238321.48177), 'DistrictGroup': 0.0}, 'repair': {'GreedyFeasible': np.float64(12435688765.386702), 'AffinityCompact': np.float64(22457541177.83419), 'NearestCenter': np.float64(30584988202.850044), 'Regret2': np.float64(260872312173.01404)}}

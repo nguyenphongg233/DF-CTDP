@@ -1,0 +1,35 @@
+Iteration 0: BestViol=52852.5125 BestAff=3789 BestCompact=194243.27 CurScore=549558868.2733 BestScore=549558868.2733 Temp=27477943.41 NoImprove=0 Restarts=0 Time=0.00s
+Iteration 1000: BestViol=1088.1625 BestAff=3633 BestCompact=220547.91 CurScore=31083672.9108 BestScore=31083672.9108 Temp=182837.37 NoImprove=1 Restarts=0 Time=74.92s
+Iteration 2000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=21585079.1360 BestScore=21584977.9884 Temp=1216.59 NoImprove=26 Restarts=0 Time=103.10s
+Iteration 3000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=614262611.8785 BestScore=21584977.9884 Temp=33224492.93 NoImprove=24 Restarts=2 Time=134.23s
+Iteration 4000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=526856759.4506 BestScore=21584977.9884 Temp=29428022.33 NoImprove=22 Restarts=4 Time=183.72s
+Iteration 5000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=458535905.6735 BestScore=21584977.9884 Temp=32146247.03 NoImprove=20 Restarts=6 Time=232.07s
+Iteration 6000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=357193226.8838 BestScore=21584977.9884 Temp=22812400.19 NoImprove=18 Restarts=8 Time=283.65s
+Iteration 7000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=478243609.5445 BestScore=21584977.9884 Temp=32841615.96 NoImprove=16 Restarts=10 Time=336.61s
+Iteration 8000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=330659292.5731 BestScore=21584977.9884 Temp=24175188.26 NoImprove=14 Restarts=12 Time=386.11s
+Iteration 9000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=276245617.0246 BestScore=21584977.9884 Temp=25930854.75 NoImprove=12 Restarts=14 Time=442.66s
+Iteration 10000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=517984000.7949 BestScore=21584977.9884 Temp=27517660.19 NoImprove=10 Restarts=16 Time=494.34s
+Iteration 11000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=367653486.2482 BestScore=21584977.9884 Temp=21684430.89 NoImprove=8 Restarts=18 Time=546.58s
+Iteration 12000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=612172046.9687 BestScore=21584977.9884 Temp=33749257.96 NoImprove=6 Restarts=20 Time=601.70s
+Iteration 13000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=345003240.9921 BestScore=21584977.9884 Temp=20040605.44 NoImprove=4 Restarts=22 Time=684.87s
+Iteration 14000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=412853400.5569 BestScore=21584977.9884 Temp=21350457.82 NoImprove=2 Restarts=24 Time=731.03s
+Iteration 15000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=487758700.7418 BestScore=21584977.9884 Temp=24387935.04 NoImprove=0 Restarts=26 Time=801.13s
+Iteration 16000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=70900435.2651 BestScore=21584977.9884 Temp=2267753.70 NoImprove=499 Restarts=27 Time=997.02s
+Iteration 17000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=34266015.7181 BestScore=21584977.9884 Temp=2371705.80 NoImprove=497 Restarts=29 Time=1044.11s
+Iteration 18000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=136100628.0924 BestScore=21584977.9884 Temp=3528632.24 NoImprove=495 Restarts=31 Time=1095.07s
+Iteration 19000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=86258509.8271 BestScore=21584977.9884 Temp=2895880.87 NoImprove=493 Restarts=33 Time=1940.08s
+Iteration 20000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=113474980.5102 BestScore=21584977.9884 Temp=3241624.95 NoImprove=491 Restarts=35 Time=2530.04s
+Iteration 21000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=57958488.0671 BestScore=21584977.9884 Temp=3566022.89 NoImprove=489 Restarts=37 Time=2846.42s
+Iteration 22000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=88715717.7887 BestScore=21584977.9884 Temp=2730882.62 NoImprove=487 Restarts=39 Time=3105.58s
+Iteration 23000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=37051921.3656 BestScore=21584977.9884 Temp=1834253.92 NoImprove=485 Restarts=41 Time=3150.39s
+Iteration 24000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=87408456.8179 BestScore=21584977.9884 Temp=1684378.77 NoImprove=483 Restarts=43 Time=3203.04s
+Iteration 25000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=109897307.2229 BestScore=21584977.9884 Temp=2918964.34 NoImprove=481 Restarts=45 Time=3248.68s
+Iteration 26000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=141731178.8053 BestScore=21584977.9884 Temp=2155738.15 NoImprove=479 Restarts=47 Time=3300.34s
+Iteration 27000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=157526907.4687 BestScore=21584977.9884 Temp=2491263.94 NoImprove=477 Restarts=49 Time=3345.94s
+Iteration 28000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=100706039.5943 BestScore=21584977.9884 Temp=2601249.24 NoImprove=475 Restarts=51 Time=3391.33s
+Iteration 29000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=67028813.1844 BestScore=21584977.9884 Temp=1118264.03 NoImprove=473 Restarts=53 Time=3443.60s
+Iteration 30000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=86566773.2160 BestScore=21584977.9884 Temp=3169399.58 NoImprove=471 Restarts=55 Time=3491.05s
+Iteration 31000: BestViol=131.0575 BestAff=3646 BestCompact=221402.99 CurScore=79639314.5215 BestScore=21584977.9884 Temp=1534851.22 NoImprove=469 Restarts=57 Time=3546.02s
+Final: BestViol=131.0575 BestAff=3646 BestCompact=221247.71 BestScore=21584822.7068 TotalRestarts=58 TotalTime=4167.26s TotalIters=31075
+OperatorCalls: {'destroy': {'RandomLeafs': 12672, 'PathRemoval': 6698, 'WorstAffinity': 11593, 'DistrictGroup': 111}, 'repair': {'GreedyFeasible': 3889, 'NearestCenter': 4940, 'Regret2': 22245}}
+OperatorImprovements: {'destroy': {'RandomLeafs': np.float64(38173388021.29233), 'PathRemoval': np.float64(1411202129.5410001), 'WorstAffinity': np.float64(11094478540.011955), 'DistrictGroup': 0.0}, 'repair': {'GreedyFeasible': np.float64(238755324.45497355), 'NearestCenter': np.float64(956011970.864286), 'Regret2': np.float64(49484301395.52608)}}
